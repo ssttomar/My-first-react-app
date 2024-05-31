@@ -2,6 +2,9 @@
 This project is about my First React App . 
 It's a simple but unique landing page with the creative design of the menu page of pizza selling company.
 
+## Preview
+![Screenshot (9)](https://github.com/ssttomar/My-first-react-app/assets/92167540/d13184a5-9ae0-498b-9639-2d238e9b1e4c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

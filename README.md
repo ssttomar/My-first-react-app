@@ -1,3 +1,7 @@
+# Landing page of "Fast React Pizza Co."  
+This project is about my First React App . 
+It's a simple but unique landing page with the creative design of the menu page of pizza selling company.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
